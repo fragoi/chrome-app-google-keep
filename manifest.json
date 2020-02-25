@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Google Keep",
+    "version": "1",
+    "icons": {
+        "48": "icon48.png"
+    },
+    "permissions": [
+        "webview"
+    ],
+    "app": {
+        "background": {
+            "scripts": [
+                "background.js"
+            ]
+        }
+    },
+    "minimum_chrome_version": "34"
+}
