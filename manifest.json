@@ -4,7 +4,9 @@
     "description": "Chrome App to use Google Keep in a window.",
     "version": "1",
     "icons": {
-        "48": "icon48.png"
+        "48": "icon_48.png",
+        "144": "icon_144.png",
+        "192": "icon_192.png"
     },
     "permissions": [
         "webview"
